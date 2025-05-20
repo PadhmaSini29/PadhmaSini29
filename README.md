@@ -1,128 +1,103 @@
+<!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Padhmasini+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer+%7C+Open+to+Work%21;Building+intelligent+systems+with+LLMs+%F0%9F%A7%A0+and+data+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=700&center=true&vCenter=true&lines=Hi+there%2C+I'm+Padhmasini!;AI+%2F+ML+Engineer+in+the+Making+%F0%9F%A7%A0;Open+to+Internship+%26+Full-Time+Opportunities!">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PadhmaSini29&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="180" />
+</p>
+
+<p align="center">
+  🌐 <a href="https://padhmasini29.github.io/profile_web/">Portfolio</a> • 
+  🔗 <a href="https://www.linkedin.com/in/padhmasini/">LinkedIn</a> • 
+  📬 <strong>Open to full-time & internship roles</strong>
 </p>
 
 ---
 
-## 🎓 About Me
+## 🧠 About Me
 
-🎓 Final-year student in **Integrated Master's in Artificial Intelligence & Machine Learning**  
-🏫 **Coimbatore Institute of Technology, Coimbatore**  
-📊 **CGPA**: *8.0*
+🎓 **Integrated Master's in AI & ML**, Final Year  
+🏫 *Coimbatore Institute of Technology, Coimbatore*  
+📊 *Current CGPA:* **8.0**
 
-🧠 Passionate about:
-- Large Language Models (LLMs) & NLP
-- MLOps & pipeline design
-- Ethical and scalable AI
-- Industry 4.0/5.0 integrations
-
-💼 **Open to full-time or internship opportunities** in:
-- AI/ML Engineering
-- Data Science
-- AI Research & Development
+🚀 I'm passionate about building intelligent systems using **LLMs**, **NLP**, and **applied ML**.  
+I thrive on solving real-world problems with scalable, ethical AI solutions.
 
 ---
 
 ## 💼 Internship Experience
 
-### 🚀 AI Product Development Intern  
+### 👨‍💻 AI Product Development Intern  
 **Sustainabyte Technologies** | *July 2024 – Jan 2025*
 
-Worked on a **Retrieval-Augmented Generation (RAG)** based CDP (Carbon Disclosure Project) reporting tool.
-
-**Key Responsibilities:**
-- 🧪 Researched LLMs for Industry 4.0/5.0 applications
-- ⚙️ Evaluated fine-tuning vs. RAG for efficiency and scale
-- 🛠️ Built modular pipelines for ingestion → inference → reporting
-- 📝 Authored reports on architecture, model performance, and design
+🔹 Built a **RAG-based CDP Reporting Tool** aligned with Industry 4.0/5.0  
+🔹 Evaluated fine-tuning vs. retrieval for open-source LLMs  
+🔹 Designed E2E pipelines for ingestion → inference → visualization  
+🔹 Authored detailed documentation on architecture & model outcomes
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
-
-### 🧠 AI/ML & NLP
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230D3A53?style=flat-square)
-
-### 🧰 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-%23F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+| Domain | Tools & Frameworks |
+|-------|--------------------|
+| 🧠 **AI/ML** | `TensorFlow`, `PyTorch`, `Keras`, `scikit-learn` |
+| 🧪 **NLP/LLMs** | `Hugging Face`, `spaCy`, `Transformers`, `RAG`, `OpenCV` |
+| 📊 **Data Science** | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly` |
+| 🌐 **Dev & Web** | `Flask`, `Git`, `Docker`, `Google Colab`, `Linux` |
+| 💻 **Languages** | `Python`, `C++`, `Java`, `SQL` |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| 💡 Project | 🔧 Stack | 🔗 Link |
-|-----------|----------|--------|
-| CNN-Based Image Classifier | TensorFlow, Keras | [GitHub](https://github.com/PadhmaSini29) |
-| Sentiment Analysis | NLTK, scikit-learn | [GitHub](https://github.com/PadhmaSini29) |
-| Regression Forecasting | Pandas, Seaborn | [GitHub](https://github.com/PadhmaSini29) |
-| Flask Web App (ML Deployment) | Flask, Python | [GitHub](https://github.com/PadhmaSini29) |
+- 🖼️ **Image Classifier (CNN)** — TensorFlow/Keras  
+- 🗣️ **Sentiment Analysis** — NLTK + scikit-learn  
+- 📈 **Forecasting Models** — Pandas + Regression  
+- 🌍 **Deployed ML App** — Flask + interactive model
 
----
-
-## 🌐 Portfolio
-
-🖥️ Personal Website:  
-📎 [padhmasini29.github.io/profile_web](https://padhmasini29.github.io/profile_web/)
+🔗 [View My GitHub Repositories »](https://github.com/PadhmaSini29?tab=repositories)
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PadhmaSini29&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PadhmaSini29&theme=radical" width="47%">
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PadhmaSini29&theme=github-compact&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=PadhmaSini29&show_icons=true&theme=gruvbox&hide_border=true" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PadhmaSini29&theme=gruvbox&hide_border=true" width="47%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PadhmaSini29&theme=react-dark&hide_border=true&area=true" width="95%">
 </p>
 
 ---
 
-## 🎯 2025 Goals
+## 🧭 2025 Roadmap
 
-- 🚢 Deploy LLM-powered microservices  
-- ✍️ Write technical blogs on Hugging Face & NLP  
-- 💬 Contribute to open-source AI tools  
-- 🧩 Work with global R&D teams in AI/ML
+- ✅ Deploy LLM-backed microservices (RAG/Chatbot)
+- ✍️ Start technical blogging (Medium/HF Spaces)
+- 💼 Join a real-world AI/ML product or research team
+- 🌱 Contribute to open-source ML projects
 
 ---
 
-## 📬 Let’s Connect
+## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/padhmasini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/padhmasini/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:padhmasini29@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:padhmasini29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://padhmasini29.github.io/profile_web/">
+    <img src="https://img.shields.io/badge/Portfolio-29ABE2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR5M3Jtd2tscGpna3pzdXExMXFqZzM4YXM5dTYyY3NrbXplN3V5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" /><br>
+  <strong>Let’s build something intelligent together! 🧠🚀</strong>
 </p>
-
-<p align="center"><b>Let’s build intelligent systems together 🚀</b></p>

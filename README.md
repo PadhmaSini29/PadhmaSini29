@@ -1,6 +1,8 @@
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello%2C+I'm+Padhmasini!;Aspiring+AI%2FML+Engineer+%7C+Open+to+Work!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Padhmasini;Aspiring+AI%2FML+Engineer;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
+
 
 <p align="center">
   💻 <strong>AI/ML Enthusiast</strong> | 🧠 Final Year AIML Student | 🎯 Problem Solver  

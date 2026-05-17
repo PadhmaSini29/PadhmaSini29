@@ -11,7 +11,7 @@
 <p align="center">
   🌐 <a href="https://padhmasini29.github.io/profile_web/" target="_blank"><strong>Portfolio</strong></a> • 
   🔗 <a href="https://www.linkedin.com/in/padhmasini/" target="_blank"><strong>LinkedIn</strong></a> • 
-  📬 <em><strong>Actively seeking full-time or internship opportunities</strong></em>
+  📬 <em><strong>Actively seeking full-time opportunities</strong></em>
 </p>
 
 ---

@@ -147,18 +147,6 @@
   - WebSockets
 - Used:
   - Sarvam AI
-  - Llama 3
-  - Fish Speech
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PadhmaSini29&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PadhmaSini29&theme=tokyonight" width="48%" />
-</p>
-
 
 ---
 
